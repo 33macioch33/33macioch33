@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d343a,100:2bb3a3&height=200&section=header&text=Maciej%20Ageev&fontColor=ffffff&fontSize=48&desc=AI%20Tools%20Specialist%20%C2%B7%20Automatyzacja%20z%20LLM&descSize=18&descAlignY=62" alt="Maciej Ageev"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d343a,100:2bb3a3&height=240&section=header&text=Maciej%20Ageev&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%20Tools%20Specialist%20%C2%B7%20Automatyzacja%20z%20LLM&descSize=17&descAlignY=56" alt="Maciej Ageev"/>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -36,13 +36,14 @@
 ### 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-`RAG (bge-m3)` · `MCP` · `Continue.dev` · `PowerShell/CLI` · `Claude · ChatGPT · Gemini · Grok · DeepSeek · Qwen`
+`RAG (bge-m3)` · `MCP` · `Continue.dev` · `PowerShell/CLI` · `Claude Code · ChatGPT · Gemini · Grok · DeepSeek · Qwen`
 
 ---
 
@@ -50,8 +51,16 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=33macioch33&show_icons=true&count_private=true&hide_border=true&title_color=2bb3a3&icon_color=2bb3a3&text_color=c9d1d9&bg_color=0d343a" alt="Statystyki GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=33macioch33&layout=compact&hide_border=true&title_color=2bb3a3&text_color=c9d1d9&bg_color=0d343a" alt="Top języki"/>
 </p>
+
+### 🧩 Główne języki i narzędzia
+
+> Na co dzień pracuję głównie w **Pythonie** (większość kodu w prywatnych repo badawczych).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/PowerShell%20%2F%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
