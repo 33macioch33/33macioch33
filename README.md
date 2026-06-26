@@ -1,9 +1,13 @@
-<h1 align="center">Cześć, jestem Maciej 👋</h1>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <b>AI Tools Specialist · Automatyzacja z LLM</b><br/>
-  Buduję działające systemy AI na potrzeby <b>rynków finansowych</b> —<br/>
-  lokalne modele LLM, wyszukiwanie semantyczne (RAG) i zautomatyzowane pipeline'y badawcze.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d343a,100:2bb3a3&height=200&section=header&text=Maciej%20Ageev&fontColor=ffffff&fontSize=48&desc=AI%20Tools%20Specialist%20%C2%B7%20Automatyzacja%20z%20LLM&descSize=18&descAlignY=62" alt="Maciej Ageev"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/33macioch33/portfolio">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&color=2BB3A3&center=true&vCenter=true&width=620&lines=Lokalne+modele+LLM+%2B+RAG;Automatyzacja+i+orkiestracja+AI;Systemy+AI+na+rynki+finansowe;Weryfikuje+wyniki%2C+zamiast+im+ufac" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
@@ -42,8 +46,20 @@
 
 ---
 
+### 📊 Statystyki
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=33macioch33&show_icons=true&count_private=true&hide_border=true&title_color=2bb3a3&icon_color=2bb3a3&text_color=c9d1d9&bg_color=0d343a" alt="Statystyki GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=33macioch33&layout=compact&hide_border=true&title_color=2bb3a3&text_color=c9d1d9&bg_color=0d343a" alt="Top języki"/>
+</p>
+
+---
+
 ### 📫 Kontakt
 
 - ✉ ageevmaciek@gmail.com
 - 📂 [Portfolio z opisem workflow i architektury](https://github.com/33macioch33/portfolio)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2bb3a3,100:0d343a&height=100&section=footer" alt="footer"/>
+</p>
