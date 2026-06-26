@@ -47,5 +47,3 @@
 - ✉ ageevmaciek@gmail.com
 - 📂 [Portfolio z opisem workflow i architektury](https://github.com/33macioch33/portfolio)
 
-<sub>Kod głównego projektu badawczego pozostaje prywatny ze względu na autorski charakter badań —
-sanityzowany przegląd dostępny w portfolio.</sub>
