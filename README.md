@@ -81,15 +81,6 @@ nie pojedynczy asystent.
 
 ---
 
-### 📌 Projekty
-
-<p align="center">
-  <a href="https://github.com/33macioch33/portfolio"><img src="https://img.shields.io/badge/📂_portfolio-AI_systems_%2B_CV-14555e?style=for-the-badge"/></a>
-  <a href="https://github.com/33macioch33/pokemon-runner"><img src="https://img.shields.io/badge/🎮_pokemon--runner-HTML5_Canvas-2bb3a3?style=for-the-badge"/></a>
-</p>
-
----
-
 ### 📫 Kontakt
 
 - ✉ ageevmaciek@gmail.com
