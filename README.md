@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d343a,100:2bb3a3&height=230&section=header&text=Maciej%20Ageev&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=AI%20Systems%20%26%20Automation%20Engineer&descSize=17&descAlignY=54" alt="Maciej Ageev"/>
 </p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://github.com/33macioch33/portfolio">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=21&duration=3000&pause=800&color=2BB3A3&center=true&vCenter=true&width=680&lines=Orkiestracja+multi-agentowa+%E2%80%94+5+dostawc%C3%B3w+%2F+12+modeli+LLM;Coding-swarm+%2B+Arena%3A+turnieje+modeli+o+jeden+artefakt;Bramkowany+pipeline+badawczy+%E2%80%94+86+przebadanych+hipotez;Hybrid+RAG%2C+w%C5%82asne+CLI%2C+pami%C4%99%C4%87+mi%C4%99dzy+sesjami;Weryfikuj%C4%99+wyniki%2C+zamiast+im+ufa%C4%87" alt="Typing SVG"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/33macioch33/portfolio">
     <img src="https://img.shields.io/badge/📂_Portfolio-Zobacz_projekt-14555e?style=for-the-badge" alt="Portfolio"/>
